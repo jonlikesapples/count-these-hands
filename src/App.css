@@ -1,0 +1,22 @@
+#signup {
+  text-align: center;
+  margin-top: 10%;
+  border: 1px solid red
+}
+
+#logo {
+  margin: 0 auto;
+  margin-top: 15%;
+  width: 300px;
+  text-align: center;
+  border: 1px solid green
+}
+
+#credit {
+  font-size: 5px;
+}
+
+#biggest {
+  text-align: center;
+  /* border: 1px solid red; */
+}
